@@ -16,14 +16,11 @@
 
   header{
     padding: 2rem 4rem;
-    background-image: url(/Landing\ page\ +css/images/sky-background.jpg);
+    background-image: url(../images/sky-background.jpg);
     background-repeat: no-repeat;
     background-size: cover;
   }
-  header img{
-    
-        
-  }
+  
   header h3{
     text-align: center;
     color: blueviolet;
